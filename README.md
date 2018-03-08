@@ -1,0 +1,2 @@
+# fortune
+Fortune Cookie Server
